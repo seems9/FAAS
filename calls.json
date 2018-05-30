@@ -1,0 +1,22 @@
+[
+  {
+    "lang": "python",
+    "function": "get_prd_info",
+    "args": [2]
+  },
+  {
+    "lang": "python",
+    "function": "get_price_info",
+    "args": [5]
+  },
+  {
+    "lang": "python",
+    "function": "get_tax_info",
+    "args": []
+  },
+  {
+    "lang": "node",
+    "function": "getPrdInfo",
+    "args": [2]
+  }
+]
